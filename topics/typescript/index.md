@@ -1,6 +1,6 @@
 ---
 aliases: typescript2
-created_by: Microsoft
+created_by: vikosik_club@mail.ru 
 display_name: TypeScript
 github_url: https://github.com/Microsoft/TypeScript
 logo: typescript.png
